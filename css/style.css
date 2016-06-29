@@ -1,0 +1,50 @@
+/*Style sheet resume ---------*/
+
+
+
+/*Base styles ----------------*/
+* {
+  box-sizing: border-box;
+}
+
+
+
+body {
+  margin: 0;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+
+/*main-styles--------------------*/
+.top-header {
+  color: white;
+  background-image: linear-gradient(firebrick, orange);
+  background-size: cover;
+  margin-bottom: 0;
+  text-align: center;
+  padding: 80px 0 60px 0;
+}
+
+.person-info {
+  background: white;
+  color: black;
+  max-width: 50%;
+  display: block;
+  float: none;
+  margin: 0 25% 0 25%;
+  border-radius: 10%;
+  padding: 2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
